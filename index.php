@@ -1,1 +1,1 @@
-Today is <?php echo date(DATE_ISO8601) ?>
+Today is <?php echo date('l jS \of F Y h:i:s A'); ?>
